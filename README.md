@@ -123,7 +123,6 @@ df["Highly Negative Skew_yeojohnson"],parameters=stats.yeojohnson(df["Highly Neg
 
 ![image](https://github.com/user-attachments/assets/1ddb8e9a-817a-4a27-80c1-c8fa5fff522e)
 
-# RESULT:
-       Thus To read the given data and perform Feature Encoding and Transformation process and save the data to a file has successfully executed
-
+### RESULT:
+Thus To read the given data and perform Feature Encoding and Transformation process and save the data to a file has successfully executed
        
